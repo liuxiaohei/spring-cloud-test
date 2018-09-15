@@ -1,5 +1,5 @@
-ÔÚÊ¹ÓÃµÄ¹ı³Ì£¬·Ö±ğµ¼ÈëÁ½¸öÏîÄ¿
+åœ¨ä½¿ç”¨çš„è¿‡ç¨‹ï¼Œåˆ†åˆ«å¯¼å…¥ä¸¤ä¸ªé¡¹ç›®
 
-ÏÈÆô¶¯spring-cloud-lesson-3
+å…ˆå¯åŠ¨spring-cloud-lesson-3
 
-ÔÚÆô¶¯spring-cloud-lesson-3-client
+å†å¯åŠ¨spring-cloud-lesson-3-client
